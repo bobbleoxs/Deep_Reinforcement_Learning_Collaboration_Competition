@@ -27,13 +27,13 @@ The Model structure of the multi-agent decentralise actor, centralised critic ap
 
 **Chosen hyper parameters**
 
-Replay buffer size: int(1e4)  
-Batch_size: 256                  
-Soft update parameter Tau: 1e-3
-Update frequency: 2
-Learning rate for the actor: 1e-4  
-Learning rate for the critic: 1e-3
-Weight decay rate: 0
+* Replay buffer size: int(1e4)  
+* Batch_size: 256                  
+* Soft update parameter Tau: 1e-3
+* Update frequency: 2
+* Learning rate for the actor: 1e-4  
+* Learning rate for the critic: 1e-3
+* Weight decay rate: 0
 
 **Results**
 
