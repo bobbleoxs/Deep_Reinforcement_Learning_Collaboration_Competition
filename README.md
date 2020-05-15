@@ -35,3 +35,11 @@ Create a Python environment for this project. I recommend using `conda` or `venv
 Activate that environment and install dependencies below:
 
 `pip install -r requirements.txt`
+
+**How to run the code and train agents**
+
+1. Run jupyter notebook and open `Tennis.ipynb`.
+2. Remember to change the environment path `env = UnityEnvironment(file_name="...")` to your specification.
+3. Sections 1 to 3 set you up and ready for the the environment.
+4. Run the cells in Section 4 to train the agent. 
+5. You can change the hyperparameters in `maddpg_agent.py` to train your own agents.
