@@ -32,6 +32,6 @@ Place the downloaded file(s) in the folder you cloned this repo to and unzip (or
 
 Create a Python environment for this project. I recommend using `conda` or `venv`.
 
-Activate that environment and install dependencies:
+Activate that environment and install dependencies below:
 
 `pip install -r requirements.txt`
